@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "radio-app"
+  "defaultProject": "radio-app",
+  "cli": {
+    "analytics": "35c024c5-1231-410a-aea7-091c86c5eadd"
+  }
 }
